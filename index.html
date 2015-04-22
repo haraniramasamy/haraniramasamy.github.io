@@ -3,7 +3,7 @@ title: Where Our Souls Wander
 layout: default
 ---
 
-{% for post in site.posts | sort: 'position', 'last' %}
+{% for post in site.posts | sort: 'position', 'first' %}
   <section>
     <div class="panel" onclick="location.href='{{ post.url }}'" style='cursor: pointer;' >
       <img src="{{ post.cover }}" width=1027 alt="{{ post.title }}"/>
