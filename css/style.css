@@ -1,0 +1,130 @@
+
+/* == Layout == */
+
+header {
+  width: 100%;
+  height: 200px;
+  /*background: rgba(101, 73, 78, 0.5);*/
+}
+
+header h1 {
+  margin: 0;
+  padding: 10px;
+}
+
+body {
+  background: #ffffff;
+}
+
+.container {
+  width: 1027px;
+  margin: auto;
+  position: relative;
+}
+
+section {
+  margin-top: 10px;
+  width: 100%;
+}
+
+section > div {
+  background: #000000;
+  display: inline-block;
+  overflow: hidden;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  margin-top: 10px;
+}
+
+nav ul {
+  width: 1027px;
+  margin: auto;
+  text-align: center;
+}
+nav ul li {
+  display: inline;
+  margin: 0 20px 0 20px;
+}
+/* Type */
+
+header h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.fade {
+	opacity:0.4;
+	-webkit-filter: blur(1px);
+  -webkit-transform:scale(1.01); /* Safari and Chrome */
+	 transition:all 0.3s linear;
+}
+
+/* Style */
+header {
+  border-top: 1px dashed black;
+  border-bottom: 1px dashed black;
+  margin-bottom: 40px;
+}
+
+/* Home Page */
+
+.panel {
+  position: relative;
+}
+
+.panel img {
+  /* FIX for 3 pixel bottom of the image */
+  display: block;
+}
+.panel .title {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 60px;
+  display: none;
+}
+
+/* Post page */
+.photo {
+  position: relative;
+}
+
+.photo img {
+  width: 100%;
+}
+
+.photo p {
+  display: none;
+  position: absolute;
+  color: black;
+  bottom: 10%;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 20px;
+}
+
+.photo .left {
+  display: inline-block;
+  width: 49.5%;
+  position: relative;
+}
+
+.photo .right {
+  display: inline-block;
+  width: 49.5%;
+  position: absolute;
+  right: 0;
+}
+
+.photo .left img {
+}
+
+.photo .right img {
+}
