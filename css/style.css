@@ -82,6 +82,7 @@ header a.subtitle {
   font-size: 27px;
   color: #444;
 }
+
 /* Home Page */
 
 .panel {
@@ -132,10 +133,4 @@ header a.subtitle {
   width: 49.5%;
   position: absolute;
   right: 0;
-}
-
-.photo .left img {
-}
-
-.photo .right img {
 }
