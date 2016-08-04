@@ -131,6 +131,5 @@ header a.subtitle {
 .photo .right {
   display: inline-block;
   width: 49.5%;
-  position: absolute;
-  right: 0;
+  position: relative;
 }
