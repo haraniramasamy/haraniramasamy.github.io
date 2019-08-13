@@ -42,10 +42,10 @@ The dancing fireflies.</p>
 
   <div class="photo">
     <img src="/images/lit8.jpg"/>
-    <p>You need an external force to get out of this one</p>
+    <p>Infinity</p>
   </div>
 
   <div class="photo">
     <img src="/images/lit9.jpg"/>
-    <p>Couldn't have asked for a better surprise than this</p>
+    <p>Serendipity</p>
   </div>
