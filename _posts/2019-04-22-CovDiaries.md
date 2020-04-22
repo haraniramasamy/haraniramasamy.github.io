@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CovDiaries
+title: CoviDiaries
 cover: /images/glass.jpg
 position: 5
 ---
