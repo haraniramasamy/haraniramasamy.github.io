@@ -13,12 +13,12 @@ position: 5
 
 <div class="photo">
    <div class="left">
-    <img src="/images/spanb.jpg"/>
-    <p>We started at MOA at UBC and walked down to Spanish Banks on this day. I can still feel the sun on my skin and my hair tickle my cheeks as the wind rustled through its ends</p>
+    <img src="/images/wreck.jpg"/>
+    <p>I can still feel the sun on my skin and my hair tickle my cheeks as the wind rustled through its ends.</p>
    </div>
    <div class="right">
-    <img src="/images/sciw.jpg"/>
-    <p>It's real nice seeing Science World close up at night! We stepped out finally for a late night walk after beeing cooped inside for so long</p>
+    <img src="/images/spanb.jpg"/>
+    <p>We started at MOA at UBC and walked down to Spanish Banks on this day. The mountins from here look so different from every other beach.</p>
    </div>
   </div>
 
