@@ -27,3 +27,12 @@ position: 5
   <p>#Day34: Dutch baby - helps to have a cast iron skillet! </p>
 </div>
 
+<div class="photo">
+  <img src="/images/vegpuffs1.jpg"/>
+  <p>#Day41: Before </p>
+</div>
+
+<div class="photo">
+  <img src="/images/vegpuffs2.jpg"/>
+  <p>#Day41: After. Vegetable puffs like childhood summers spent in India</p>
+</div>
