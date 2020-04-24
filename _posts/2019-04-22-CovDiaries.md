@@ -36,3 +36,14 @@ position: 5
   <img src="/images/vegpuffs2.jpg"/>
   <p>#Day41: After. Vegetable puffs like childhood summers spent in India</p>
 </div>
+
+<div class="photo">
+   <div class="left">
+    <img src="/images/QueenE1.jpg"/>
+    <p>#Day28: 18 degrees at Queen Elizabeth Park</p>
+   </div>
+   <div class="right">
+    <img src="/images/QueenE2.jpg"/>
+    <p>#Day28 White pink and green</p>
+   </div>
+  </div>
