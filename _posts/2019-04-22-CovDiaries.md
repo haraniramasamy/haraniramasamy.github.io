@@ -28,6 +28,11 @@ position: 5
   </div>
   
   <div class="photo">
+  <img src="/images/ravioli.jpg"/>
+  <p>#Day31: Spinach, Feta & Mushroom Ravioli ft Hours of effort during timeless times </p>
+</div>
+  
+  <div class="photo">
    <div class="left">
     <img src="/images/QueenE1.jpg"/>
     <p>#Day28: 18 degrees at Queen Elizabeth Park</p>
