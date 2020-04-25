@@ -37,14 +37,15 @@ position: 5
     <p>#Day28 White pink and green</p>
    </div>
   </div>
-<div class="photo">
-  <img src="/images/vegpuffs1.jpg"/>
-  <p>#Day41: Before </p>
-</div>
-
+  
 <div class="photo">
   <img src="/images/dutch.jpg"/>
   <p>#Day34: Dutch baby - helps to have a cast iron skillet! </p>
+</div>
+
+<div class="photo">
+  <img src="/images/vegpuffs1.jpg"/>
+  <p>#Day41: Before </p>
 </div>
 
 <div class="photo">
