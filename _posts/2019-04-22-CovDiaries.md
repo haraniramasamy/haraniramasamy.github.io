@@ -8,7 +8,12 @@ position: 5
 
 <div class="photo">
   <img src="/images/wholewh.jpg"/>
-  <p>#Day40: First time sourdough!! Recipe: 10 day old fed happy starter (100g) + 250g water + salt + 394g bread flour + 12 hours fermentation </p>
+  <p>#Day40: First time sourdough!! 
+    Recipe: 10 day old fed happy starter (100g) 
+    250g water 
+    salt 
+    394g bread flour 
+    12 hours fermentation </p>
 </div>
 
 <div class="photo">
