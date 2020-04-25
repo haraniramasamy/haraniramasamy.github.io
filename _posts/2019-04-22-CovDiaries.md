@@ -26,13 +26,8 @@ position: 5
     <p>#Day36: We started at MOA at UBC and walked down to Spanish Banks on this day. The mountins from here look so different from every other beach.</p>
    </div>
   </div>
-
-<div class="photo">
-  <img src="/images/dutch.jpg"/>
-  <p>#Day34: Dutch baby - helps to have a cast iron skillet! </p>
-</div>
-
-<div class="photo">
+  
+  <div class="photo">
    <div class="left">
     <img src="/images/QueenE1.jpg"/>
     <p>#Day28: 18 degrees at Queen Elizabeth Park</p>
@@ -45,6 +40,11 @@ position: 5
 <div class="photo">
   <img src="/images/vegpuffs1.jpg"/>
   <p>#Day41: Before </p>
+</div>
+
+<div class="photo">
+  <img src="/images/dutch.jpg"/>
+  <p>#Day34: Dutch baby - helps to have a cast iron skillet! </p>
 </div>
 
 <div class="photo">
